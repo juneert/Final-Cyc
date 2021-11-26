@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119086055648",
+    "project_id": "cariscare",
+    "storage_bucket": "cariscare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119086055648:android:2f4704dc77aac9e5ec9085",
+        "android_client_info": {
+          "package_name": "com.example.cyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119086055648-0nl782i8v9f7s3ui6ih8ngup81a8d0gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqoTaCYb1kV8ykMa4J38CRRLWXyD8SKVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119086055648-0nl782i8v9f7s3ui6ih8ngup81a8d0gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
